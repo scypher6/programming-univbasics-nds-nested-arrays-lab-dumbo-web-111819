@@ -31,7 +31,7 @@ def array_literal_matrix
   # alphabetically by the first character.
   array = []
   array << ENNET_HOUSE.sort
-  array << ENFIELD_TENNIS_ACADEMY.sorts
+  array << ENFIELD_TENNIS_ACADEMY.sort
 end
 
 def matrix_lookup(matrix, row, column)
